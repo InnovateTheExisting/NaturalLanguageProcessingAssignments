@@ -1,0 +1,17 @@
+1. Please execute the code using these commands:
+	for Q2:
+			python Q2ans.py The Fed chairman warned that the board's decision is bad
+			Enter your input as a command line argument
+
+	for Q3a: python Q3ans.py
+			 The test sentence is already in the code as marked as the variable input - it is the same as the sentence given by the professor
+			 The output will be  in the below files:
+			 mostProbable-OUTPUT.txt - Gives the tags along with each word
+			 brillsTagging-OUTPUT.txt - Gives the tags along with each word
+			 brillsTags.txt - Gives the rules found
+
+	for Q3b: python Q3b.py
+			 Enter you input in the file q3btest and save. Sample input as given by professor has been entered as default
+			 The output will be in 3 files: 
+			 q3bresults.txt - the results of Q3b will be in this file
+			 q3bprobability_of_all_tags_given_word.txt - this files gives the probability of each tag given a word from the test file
